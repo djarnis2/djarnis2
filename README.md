@@ -19,11 +19,11 @@ Java · Python · JavaScript · React · REST/JSON · SQL/MySQL · Selenium · N
 [<img src="assets/movies.png" width="420" alt="Movies">](https://github.com/djarnis2/movies)
 - (TMDB scraper + React): Selenium/BS4 with pagination, **search/filter** and links to TMDB details. Built as a clean, lightweight React UI.
 
-[<img src="assets/blazeballs.png" width="420" alt="BlazeBalls">](https://github.com/djarnis2/BlazeBalls)
+[<img src="assets/blazeball.png" width="420" alt="BlazeBalls">](https://github.com/djarnis2/BlazeBalls)
 
 - (JavaFX + JPMS): Modular architecture, **delta-time** movement, centralized bullet logic. Simpler codebase → better testability.
 
-[<img src="assets/dl.png" width="420" alt="dl25e — FullyConnectedNN (NumPy)">](https://github.com/djarnis2/dl25e)
+[<img src="assets/dl25e.png" width="420" alt="dl25e — FullyConnectedNN (NumPy)">](https://github.com/djarnis2/dl25e)
 - (FullyConnectedNN in NumPy): From scratch: forward/backprop, ReLU/Softmax, cross-entropy; trained and evaluated on BloodMNIST.
 
 ## Now
