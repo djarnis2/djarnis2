@@ -13,10 +13,11 @@ and I occasionally do CTFs with **Brunerne**.
 Java · Python · JavaScript · React · REST/JSON · SQL/MySQL · Selenium · NumPy · Linux · Git/GitHub · Docker 
 
 ## Featured projects
-- **[apod-project](https://github.com/djarnis2/apod-project)** (Node/Express): 
+- [<img src="assets/APOD_Project_banner.png" width="420" alt="APOD Project">](https://github.com/djarnis2/apod-project) (Node/Express): 
   Import NASA APODs by **date range** and **search** across imported entries. Falls back to the standard image when **HD** is unavailable.
 
-- **[movies](https://github.com/djarnis2/movies)** (TMDB scraper + React): 
+- [<img src="assets/movies.png" width="420" alt="Movies">](https://github.com/djarnis2/movies)
+ (TMDB scraper + React): 
   Selenium/BS4 with pagination, **search/filter** and links to TMDB details. Built as a clean, lightweight React UI.
 
 - **[BlazeBalls](https://github.com/djarnis2/BlazeBalls)** (JavaFX + JPMS):  
