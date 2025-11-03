@@ -14,18 +14,17 @@ Java · Python · JavaScript · React · REST/JSON · SQL/MySQL · Selenium · N
 
 ## Featured projects
 [<img src="assets/APOD_Project_banner.png" width="420" alt="APOD Project">](https://github.com/djarnis2/apod-project) 
-(Node/Express): 
-  Import NASA APODs by **date range** and **search** across imported entries. Falls back to the standard image when **HD** is unavailable.
+- (Node/Express): Import NASA APODs by **date range** and **search** across imported entries. Falls back to the standard image when **HD** is unavailable.
 
 [<img src="assets/movies.png" width="420" alt="Movies">](https://github.com/djarnis2/movies)
-(TMDB scraper + React): 
-  Selenium/BS4 with pagination, **search/filter** and links to TMDB details. Built as a clean, lightweight React UI.
+- (TMDB scraper + React): Selenium/BS4 with pagination, **search/filter** and links to TMDB details. Built as a clean, lightweight React UI.
 
-- **[BlazeBalls](https://github.com/djarnis2/BlazeBalls)** (JavaFX + JPMS):  
-  Modular architecture, **delta-time** movement, centralized bullet logic. Simpler codebase → better testability.
+[<img src="assets/blazeballs.png" width="420" alt="BlazeBalls">](https://github.com/djarnis2/BlazeBalls)
 
-- **[dl25e](https://github.com/djarnis2/dl25e)** (FullyConnectedNN in NumPy):  
-  From scratch: forward/backprop, ReLU/Softmax, cross-entropy; trained and evaluated on BloodMNIST.
+- (JavaFX + JPMS): Modular architecture, **delta-time** movement, centralized bullet logic. Simpler codebase → better testability.
+
+[<img src="assets/dl.png" width="420" alt="dl25e — FullyConnectedNN (NumPy)">](https://github.com/djarnis2/dl25e)
+- (FullyConnectedNN in NumPy): From scratch: forward/backprop, ReLU/Softmax, cross-entropy; trained and evaluated on BloodMNIST.
 
 ## Now
 - Polishing this README and updating old projects.
